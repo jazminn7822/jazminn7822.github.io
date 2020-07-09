@@ -40,8 +40,10 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+
+ background-color: #D0E6A5; /*Very Bright Light Green*/
+    /*background-color: #2e72a1;  Blue */
+    /*color: #ffffff;*/
 }
 
 .card {
@@ -54,13 +56,15 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    /*background-color: #000000;  Black */
+    /*color: #ffffff;*/
+    background-color: rgb(240,174,117); /*Peach color*/
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
-    color: #fff;
+    background-color: rgb(240,174,117); /*Peach color*/
+    /*background-color: #343a40; */ /* Dark Gray */
+    /*color: #fff;*/
 }
 
 .container-fluid {
